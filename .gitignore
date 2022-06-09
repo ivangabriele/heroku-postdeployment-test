@@ -139,3 +139,9 @@ dist
 
 # SvelteKit build / generate output
 .svelte-kit
+
+################################################################################
+# Custom
+
+/public/*
+!/public/.gitkeep
